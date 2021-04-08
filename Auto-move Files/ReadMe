@@ -1,0 +1,2 @@
+首先要下载好watchdog库。
+folder_to_track变量存储的是要监督的文件夹，其中文件一旦发生变化（增删改），就会触发on_any_event函数。
